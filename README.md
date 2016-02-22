@@ -7,6 +7,7 @@ Compiler itself is written in Qomp based on Oberon (with [extensions]) and compi
 Based on OberonJS https://github.com/vladfolts/oberonjs
 
 ## Quick start
-You can try the compiler online at.. TODO
+You can try the compiler online at:
+ - TODO
 
 
